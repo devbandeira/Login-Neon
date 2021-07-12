@@ -1,0 +1,16 @@
+/* -----botões----- */
+.mbtn div button:hover{
+    background-color: rgba(245, 245, 245, 0.418);
+    transition: 0.3s all ease-in-out;
+}
+.mbtn a:hover
+{
+    text-decoration: underline;
+}
+.dbtn div button:hover
+{
+    transform:scale(1.1);
+}
+input:hover{
+    transform:scale(1.1);
+}
